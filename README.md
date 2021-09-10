@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vothuckhanhhuyen
-- 👀 I’m interested in Machine Learning, Statistic, and Software Engineering
+- 👀 I’m interested in Machine Learning, Statistics, and Software Engineering
 - 🌱 I’m currently learning Computer Science at Hanoi University of Science and Technology
 - 📫 How to reach me vothuckhanhhuyenvn@gmail.com
 
