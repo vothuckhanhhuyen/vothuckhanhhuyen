@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vothuckhanhhuyen
-- 👀 I’m interested in Machine Learning (Deep Implicit Layers, Graph Neural Network), Statistics, Mathematics
+- 👀 I’m interested in Machine Learning (Deep Implicit Layers, Graph Neural Networks, Transformers), Statistics, Mathematics
 - 🌱 I’m currently learning Computer Science at Hanoi University of Science and Technology
 - 📫 How to reach me vothuckhanhhuyenvn@gmail.com
 
