@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vothuckhanhhuyen
 - 👀 I’m interested in Machine Learning, Statistics, Mathematics
-- 🌱 I’m currently working as AI Research Resident at FPT Software AI Center
+- 🌱 I am a PhD student at the [CS@Max Planck](https://www.cis.mpg.de/cs-max-planck/) PhD program
 - 📫 How to reach me vothuckhanhhuyenvn@gmail.com
 
 <!---
