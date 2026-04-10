@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Huyen (Emily)
-- 🌱 I am a PhD student at the [CS@Max Planck](https://www.cis.mpg.de/cs-max-planck/) PhD program
+- 🌱 I am a PhD student at the [CS@Max Planck PhD program](https://www.cis.mpg.de/cs-max-planck/) 
 - 👀 I’m interested in Machine Learning, Statistics, Mathematics
 - 📫 How to reach me vothuckhanhhuyenvn@gmail.com
 
